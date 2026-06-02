@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+opencv-python
+pytesseract
+Pillow
+scikit-learn
